@@ -1,0 +1,21 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ],
+        "requires": {},
+        "hash": {
+            "sha256": "1308e699df9d4148fc7a00f3d2ae9fd4944866fe0863b0e48fd06f9ff2380800"
+        }
+    },
+    "default": {
+        "django": {
+            "hash": "sha256:4541a60834f28f308ee7b6e96400feca905fb0de473eb9dad6847e98a36d86d4",
+            "version": "==1.10.5"
+        }
+    },
+    "develop": {}
+}
